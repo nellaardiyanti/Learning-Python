@@ -1,2 +1,2 @@
 # Learning-Python
-Day 1 learning python ; Variable, Operators and Data  type
+learning python ; Variable, Operators and Data  type
